@@ -25,4 +25,5 @@
   end
   
   def sort
+    self.roster.each do |name, grade|
 end
